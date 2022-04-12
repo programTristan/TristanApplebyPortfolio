@@ -5,14 +5,14 @@
 ## [DATA ANALYSIS PROJECT - GROCERY CHAIN SALES MANAGEMENT](https://programtristan.github.io/GroceryStore_Sales_Analysis/)
 
 ### Project overview
-* This projec explores different business metrics and how they can be displayed graphically to follow them
-* I explore the relation between sales, budget, costumers and products
-* We can obtain conclusions that will help us to make better marketing campaigns and improve profits
-* The tools used are SQL server and Power BI
+* This project explores sales data for an international grocery store chain.
+* I explore the relation between sales, regions, customers, products, stores, returns and date.
+* We can obtain conclusions that will help us to make better marketing campaigns and improve profits.
+* The tools used are Excel and SQL 
 
 You can access to it **[HERE](https://programtristan.github.io/GroceryStore_Sales_Analysis/)**
 
-[![go to project](Sales_Management/PB Sales Overview.PNG)](https://programtristan.github.io/GroceryStore_Sales_Analysis/)
+[![go to project](Sales_Management/Snapshot.png)](https://programtristan.github.io/GroceryStore_Sales_Analysis/)
 
 
 

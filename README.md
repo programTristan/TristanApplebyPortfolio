@@ -16,7 +16,7 @@ You can access to it **[HERE](https://programtristan.github.io/GroceryStore_Sale
 
 
 
-## [EXCEL DATA ANALYSIS PROJECT](https://roberto121c.github.io/Excel_Analysis_Project/)
+## [EXCEL DATA ANALYSIS PROJECT](https://programtristan.github.io/Warzone_Database/)
 
 ### Project overview
 * An electronics store needs to increase its profits
@@ -24,9 +24,9 @@ You can access to it **[HERE](https://programtristan.github.io/GroceryStore_Sale
 * Sales were evaluated by product, city, time and over time.
 * This analysis was done on a database with 180,000 values using Excel only.
 
-You can access to it **[HERE](https://roberto121c.github.io/Excel_Analysis_Project/)**
+You can access to it **[HERE](https://programtristan.github.io/Warzone_Database/)**
 
-[![go to project](Excel_Sales_Analysis/Sales_overview.PNG)](https://roberto121c.github.io/Excel_Analysis_Project/)
+[![go to project](https://programtristan.github.io/Warzone_Database/)
 
 
 

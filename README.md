@@ -8,7 +8,7 @@
 * This project explores sales data for an international grocery store chain.
 * I explore the relation between sales, regions, customers, products, stores, returns and date.
 * We can obtain conclusions that will help us to make better marketing campaigns and improve profits.
-* The tools used are Excel and SQL 
+* The tools used are Excel and Power BI
 
 You can access to it **[HERE](https://programtristan.github.io/GroceryStore_Sales_Analysis/)**
 

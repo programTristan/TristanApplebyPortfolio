@@ -2,7 +2,7 @@
 
 
 
-## [DATA ANALYSIS PROJECT - SALES MANAGEMENT](https://roberto121c.github.io/Sales_Management/)
+## [DATA ANALYSIS PROJECT - GROCERY CHAIN SALES MANAGEMENT](https://programtristan.github.io/GroceryStore_Sales_Analysis/)
 
 ### Project overview
 * This projec explores different business metrics and how they can be displayed graphically to follow them
@@ -10,9 +10,9 @@
 * We can obtain conclusions that will help us to make better marketing campaigns and improve profits
 * The tools used are SQL server and Power BI
 
-You can access to it **[HERE](https://roberto121c.github.io/Sales_Management/)**
+You can access to it **[HERE](https://programtristan.github.io/GroceryStore_Sales_Analysis/)**
 
-[![go to project](Sales_Management/PB Sales Overview.PNG)](https://roberto121c.github.io/Sales_Management/)
+[![go to project](Sales_Management/PB Sales Overview.PNG)](https://programtristan.github.io/GroceryStore_Sales_Analysis/)
 
 
 

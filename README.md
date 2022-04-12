@@ -16,13 +16,13 @@ You can access to it **[HERE](https://programtristan.github.io/GroceryStore_Sale
 
 
 
-## [EXCEL DATA ANALYSIS PROJECT](https://programtristan.github.io/Warzone_Database/)
+## [WARZONE DATABASE & ANALYSIS](https://programtristan.github.io/Warzone_Database/)
 
 ### Project overview
-* An electronics store needs to increase its profits
-* A KPI is found that will allow to increase profits at the lowest cost.
-* Sales were evaluated by product, city, time and over time.
-* This analysis was done on a database with 180,000 values using Excel only.
+* This project explores weapon damage data for 2 video games
+* I create a SQL database that will hold all entires
+* Following, I connect an R shiny app to the database.
+
 
 You can access to it **[HERE](https://programtristan.github.io/Warzone_Database/)**
 

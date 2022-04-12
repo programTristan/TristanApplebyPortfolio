@@ -26,7 +26,7 @@ You can access to it **[HERE](https://programtristan.github.io/GroceryStore_Sale
 
 You can access to it **[HERE](https://programtristan.github.io/Warzone_Database/)**
 
-[![go to project](https://programtristan.github.io/Warzone_Database/)
+[![go to project](Warzone_Database/Shiny.png)](https://programtristan.github.io/Warzone_Database/)
 
 
 

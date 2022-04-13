@@ -30,7 +30,7 @@ You can access to it **[HERE](https://programtristan.github.io/Warzone_Database/
 
 
 
-## [PYTHON - BANK LOANS ANALYSIS](https://programtristan.github.io/FireDepartment_MachineLearning/)
+## [MACHINE LEARNING - SAN FRANSISCO FIRE DEPARTMENT ](https://programtristan.github.io/FireDepartment_MachineLearning/)
 
 ### Project overview
 - We need to know which factors influence to give a loan
@@ -40,4 +40,4 @@ You can access to it **[HERE](https://programtristan.github.io/Warzone_Database/
 
 You can access to it **[HERE](https://programtristan.github.io/FireDepartment_MachineLearning/)**
 
-[![go to project](Bank_Loan_analysis/Correlation_heatmap.png)](https://programtristan.github.io/FireDepartment_MachineLearning/)
+[![go to project](FireDepartment_MachineLearning/firetruck.png)](https://programtristan.github.io/FireDepartment_MachineLearning/)

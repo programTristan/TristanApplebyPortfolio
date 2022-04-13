@@ -30,7 +30,7 @@ You can access to it **[HERE](https://programtristan.github.io/Warzone_Database/
 
 
 
-## [PYTHON - BANK LOANS ANALYSIS](https://roberto121c.github.io/Bank_loans_analysis/)
+## [PYTHON - BANK LOANS ANALYSIS](https://programtristan.github.io/FireDepartment_MachineLearning/)
 
 ### Project overview
 - We need to know which factors influence to give a loan
@@ -38,6 +38,6 @@ You can access to it **[HERE](https://programtristan.github.io/Warzone_Database/
 - It was found that apart from income, family size is an important factor to give loans.
 - The libraries used were pandas, numpy, matplotlib, seaborn and scipy.
 
-You can access to it **[HERE](https://roberto121c.github.io/Bank_loans_analysis/)**
+You can access to it **[HERE](https://programtristan.github.io/FireDepartment_MachineLearning/)**
 
-[![go to project](Bank_Loan_analysis/Correlation_heatmap.png)](https://roberto121c.github.io/Bank_loans_analysis/)
+[![go to project](Bank_Loan_analysis/Correlation_heatmap.png)](https://programtristan.github.io/FireDepartment_MachineLearning/)

@@ -33,10 +33,10 @@ You can access to it **[HERE](https://programtristan.github.io/Warzone_Database/
 ## [MACHINE LEARNING - SAN FRANSISCO FIRE DEPARTMENT ](https://programtristan.github.io/FireDepartment_MachineLearning/)
 
 ### Project overview
-- We need to know which factors influence to give a loan
-- We also need to look for any opportunity to increase the bank's assets.
-- It was found that apart from income, family size is an important factor to give loans.
-- The libraries used were pandas, numpy, matplotlib, seaborn and scipy.
+- Observing thousands of observations from the years 2000-2016
+- Predict future False Alarms
+- Report which features can me monitored to reduce Fasle Alarms
+- The libraries used were pyspark and numpy
 
 You can access to it **[HERE](https://programtristan.github.io/FireDepartment_MachineLearning/)**
 

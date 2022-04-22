@@ -1,4 +1,7 @@
 # My Projects by Tristan Appleby
+ 
+## LinkedIn
+You can access it **[Here](https://www.linkedin.com/in/tristan-appleby/)**
 
 
 

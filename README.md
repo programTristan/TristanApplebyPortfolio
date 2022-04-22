@@ -3,6 +3,8 @@
 ## LinkedIn
 You can access it **[Here](https://www.linkedin.com/in/tristan-appleby/)**
 
+[![go to LinkedIn](LinkedIn/LinkedIn.png)](https://www.linkedin.com/in/tristan-appleby/)
+
 
 
 ## [DATA ANALYSIS PROJECT - GROCERY CHAIN SALES MANAGEMENT](https://programtristan.github.io/GroceryStore_Sales_Analysis/)

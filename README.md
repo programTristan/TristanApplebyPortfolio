@@ -19,9 +19,10 @@ You can access to it **[HERE](https://programtristan.github.io/GroceryStore_Sale
 ## [WARZONE DATABASE & ANALYSIS](https://programtristan.github.io/Warzone_Database/)
 
 ### Project overview
-* This project explores weapon damage data for 2 video games
-* I create a SQL database that will hold all entires
-* Following, I connect an R shiny app to the database.
+* This project analyzes weapon choices for the video game Call of Duty: Warzone
+* I build a database that holds all weapon data
+* I connect the database and build Shiny app to plot the data
+* The programs used were MySQL and R Studio
 
 
 You can access to it **[HERE](https://programtristan.github.io/Warzone_Database/)**

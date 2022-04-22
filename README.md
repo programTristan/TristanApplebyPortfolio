@@ -1,6 +1,6 @@
 # LinkedIn
 
-## You can access it **[HERE](https://www.linkedin.com/in/tristan-appleby/)**
+You can access it **[HERE](https://www.linkedin.com/in/tristan-appleby/)**
 
 [![go to LinkedIn](LinkedIn/LinkedIn.png)](https://www.linkedin.com/in/tristan-appleby/)
 

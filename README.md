@@ -31,7 +31,7 @@ You can access to it **[HERE](https://programtristan.github.io/Warzone_Database/
 
 
 
-## [MACHINE LEARNING - SAN FRANSISCO FIRE DEPARTMENT ](https://programtristan.github.io/FireDepartment_MachineLearning/)
+## [MACHINE LEARNING - TracHack Competition ](https://programtristan.github.io/FireDepartment_MachineLearning/)
 
 ### Project overview
 - Observing thousands of observations from the years 2000-2016

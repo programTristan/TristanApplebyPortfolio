@@ -20,6 +20,18 @@ You can access to it **[HERE](https://programtristan.github.io/GroceryStore_Sale
 [![go to project](Sales_Management/Snapshot.png)](https://programtristan.github.io/GroceryStore_Sales_Analysis/)
 
 
+## [MACHINE LEARNING - PREDICTING FALSE ALARMS](https://programtristan.github.io/FireDepartment_MachineLearning/)
+
+### Project overview
+- Dataset with millions of calls from years 2000-2016
+- Prepare data and assemble features for ML models
+- Hypertune paramters to compare and select the most accurate model
+- Pyspark is the programming language used
+
+You can access to it **[HERE](https://programtristan.github.io/FireDepartment_MachineLearning/)**
+
+[![go to project](SF_MachineLearning/fireAlarm.png)](https://programtristan.github.io/FireDepartment_MachineLearning/)
+
 
 ## [WARZONE DATABASE & ANALYSIS](https://programtristan.github.io/Warzone_Database/)
 
@@ -36,14 +48,3 @@ You can access to it **[HERE](https://programtristan.github.io/Warzone_Database/
 
 
 
-## [MACHINE LEARNING - PREDICTING FALSE ALARMS](https://programtristan.github.io/FireDepartment_MachineLearning/)
-
-### Project overview
-- Dataset with millions of calls from years 2000-2016
-- Prepare data and assemble features for ML models
-- Hypertune paramters to compare and select the most accurate model
-- Pyspark is the programming language used
-
-You can access to it **[HERE](https://programtristan.github.io/FireDepartment_MachineLearning/)**
-
-[![go to project](SF_MachineLearning/fireAlarm.png)](https://programtristan.github.io/FireDepartment_MachineLearning/)

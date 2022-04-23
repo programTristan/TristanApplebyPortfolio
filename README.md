@@ -46,4 +46,4 @@ You can access to it **[HERE](https://programtristan.github.io/Warzone_Database/
 
 You can access to it **[HERE](https://programtristan.github.io/FireDepartment_MachineLearning/)**
 
-[![go to project](TracHackComp_ML/trachacksplash.png)](https://programtristan.github.io/FireDepartment_MachineLearning/)
+[![go to project](SF_MachineLearning/fireAlarm.png)](https://programtristan.github.io/FireDepartment_MachineLearning/)

@@ -39,10 +39,10 @@ You can access to it **[HERE](https://programtristan.github.io/Warzone_Database/
 ## [MACHINE LEARNING - TracHack Competition ](https://programtristan.github.io/FireDepartment_MachineLearning/)
 
 ### Project overview
-- Observing thousands of observations from the years 2000-2016
-- Predict future False Alarms
-- Report which features can me monitored to reduce Fasle Alarms
-- The libraries used were pyspark and numpy
+- Dataset with millions of calls from years 2000-2016
+- Prepare data and assemble features for ML models
+- Hypertune paramters to compare and select the most accurate model
+- Pyspark is the programming language used
 
 You can access to it **[HERE](https://programtristan.github.io/FireDepartment_MachineLearning/)**
 

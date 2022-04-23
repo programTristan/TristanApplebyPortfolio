@@ -36,7 +36,7 @@ You can access to it **[HERE](https://programtristan.github.io/Warzone_Database/
 
 
 
-## [MACHINE LEARNING - TracHack Competition ](https://programtristan.github.io/FireDepartment_MachineLearning/)
+## [MACHINE LEARNING - PREDICTING FALSE ALARMS](https://programtristan.github.io/FireDepartment_MachineLearning/)
 
 ### Project overview
 - Dataset with millions of calls from years 2000-2016

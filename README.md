@@ -5,7 +5,7 @@ You can access it **[HERE](https://www.linkedin.com/in/tristan-appleby/)**
 [![go to LinkedIn](LinkedIn/LinkedIn.png)](https://www.linkedin.com/in/tristan-appleby/)
 
 
-# My Projects by Tristan Appleby
+# My Projects
 
 ## [DATA ANALYSIS PROJECT - GROCERY CHAIN SALES MANAGEMENT](https://programtristan.github.io/GroceryStore_Sales_Analysis/)
 
